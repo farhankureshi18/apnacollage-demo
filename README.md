@@ -1,3 +1,4 @@
 # apnacollage-demo
 this is my first repo
-Author -Farhan Kureshi
+<br>
+Author - Farhan Kureshi
